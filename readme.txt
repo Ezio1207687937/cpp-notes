@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free software.
+我喜欢看《边缘行者》
+我喜欢露西，也喜欢瑞贝卡
