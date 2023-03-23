@@ -32,6 +32,7 @@ void Student::show(){
 
 int main(){
     system("chcp 65001");
+    //"system" 函数是一个用于执行命令的标准库函数。"chcp 65001" 命令将控制台的代码页更改为 "UTF-8"，这是一种用于支持 Unicode 字符的编码格式。这意味着您可以在控制台窗口中正确显示包括中文等非英语字符的文本。
     //在栈上创建对象
     /*
      * 私有变量 m_name, m_age 和 m_score 都是通过成员函数 setname, setage 和 setscore 来设置的，而不是直接通过类实例来访问的。因此，您可以访问私有变量。
