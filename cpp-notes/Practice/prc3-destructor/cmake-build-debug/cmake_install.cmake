@@ -1,8 +1,8 @@
-# Install script for directory: D:/my-git-repo/cpp-notes/Practice/prc2-constructor initialization list
+# Install script for directory: D:/my-git-repo/cpp-notes/Practice/prc3-destructor
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/prc2_constructor_initialization_list")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/prc3_destructor")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/my-git-repo/cpp-notes/Practice/prc2-constructor initialization list/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/my-git-repo/cpp-notes/Practice/prc3-destructor/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
