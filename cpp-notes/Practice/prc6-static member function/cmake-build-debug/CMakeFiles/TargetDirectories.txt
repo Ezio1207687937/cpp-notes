@@ -1,0 +1,3 @@
+D:/my-git-repo/cpp-notes/Practice/prc6-static member function/cmake-build-debug/CMakeFiles/prc6_static_member_function.dir
+D:/my-git-repo/cpp-notes/Practice/prc6-static member function/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/my-git-repo/cpp-notes/Practice/prc6-static member function/cmake-build-debug/CMakeFiles/rebuild_cache.dir
