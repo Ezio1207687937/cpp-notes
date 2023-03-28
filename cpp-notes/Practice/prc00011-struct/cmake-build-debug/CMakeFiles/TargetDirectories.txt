@@ -1,0 +1,3 @@
+D:/my-git-repo/cpp-notes/Practice/prc00011-struct/cmake-build-debug/CMakeFiles/prc00011_struct.dir
+D:/my-git-repo/cpp-notes/Practice/prc00011-struct/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/my-git-repo/cpp-notes/Practice/prc00011-struct/cmake-build-debug/CMakeFiles/rebuild_cache.dir
