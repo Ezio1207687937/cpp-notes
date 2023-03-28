@@ -1,0 +1,3 @@
+D:/my-git-repo/cpp-notes/Practice/prc10-friend class/cmake-build-debug/CMakeFiles/prc10_friend_class.dir
+D:/my-git-repo/cpp-notes/Practice/prc10-friend class/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/my-git-repo/cpp-notes/Practice/prc10-friend class/cmake-build-debug/CMakeFiles/rebuild_cache.dir
