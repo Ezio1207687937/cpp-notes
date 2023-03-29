@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "prc00015_References_as_function_return_values",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "prc00015_References_as_function_return_values::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prc00015_References_as_function_return_values-Debug-5fb3838795cb323f1e30.json",
+					"name" : "prc00015_References_as_function_return_values",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/my-git-repo/cpp-notes/Practice/prc00015-References as function return values/cmake-build-debug",
+		"source" : "D:/my-git-repo/cpp-notes/Practice/prc00015-References as function return values"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

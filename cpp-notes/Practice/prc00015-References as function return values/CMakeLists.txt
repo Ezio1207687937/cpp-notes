@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(prc00015_References_as_function_return_values)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(prc00015_References_as_function_return_values main.cpp)
