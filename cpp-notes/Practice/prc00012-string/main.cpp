@@ -29,5 +29,24 @@ int main() {
     cout << "str: " << str << endl;
     cout << "str.empty(): " << str.empty() << endl;
 
+    // 5个s字符组成的字符串
+    string s1(5,'s');
+    cout << s1 <<endl;
+
     return 0;
 }
+
+/*
+ 补充：
+ 字符串拼接方法：1、+运算符；2、str1.append(str2)
+
+ 字符串查找：str.find(sub),返回sub第一次出现在字符串中的起始下标
+
+ find()、rfind()与find_first_of() 的区别：
+find() 函数从字符串的起始位置开始搜索，向右（正向）查找指定的子字符串。当找到匹配的子字符串时，find() 函数返回第一个匹配子字符串的起始位置。如果没有找到匹配项，则返回 std::string::npos。
+rfind() 函数从字符串的末尾开始搜索，向左（逆向）查找指定的子字符串。当找到匹配的子字符串时，rfind() 函数返回最后一个匹配子字符串的起始位置。如果没有找到匹配项，则返回 std::string::npos。
+  find_first_of() 查找给定字符集合中任意一个字符首次出现的位置，比如
+            std::string str = "C++ programming is fun!";
+            std::string chars_to_find = "aeiou";
+            我们在字符串 str 中查找英语元音字符（"a", "e", "i", "o", "u"）中任意一个字符首次出现的位置。find_first_of() 找到了首个元音字符 "o"，位于位置 7。
+ */
